@@ -30,3 +30,13 @@ This repository contains a Python script to perform a Profit and Loss (PnL) anal
 - matplotlib
 - seaborn
 - scipy
+
+## Folder Structure
+pnl-analysis/
+│
+├── data/
+│   └── financial_data.csv
+│
+├── pnl_analysis.py
+├── README.md
+└── requirements.txt
